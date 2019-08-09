@@ -1,4 +1,4 @@
-# Curso Angular de Udemy
+# Curso Node de Udemy
 Este archivo contiene enlaces a los repositorios generados para los proyectos de este curso de Udemy, ya que están almacenados en una organización que no es visible desde mi perfil público.
 
 ## Primeros pasos
