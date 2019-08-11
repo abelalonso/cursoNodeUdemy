@@ -34,5 +34,6 @@ https://github.com/curso-node-udemy/toDo
 - Paquete Axios
 - Uso servicios para obtener la dirección por nombre.
 - Uso de OpenWeather para obtener el clima
+- Git y Github. Uso del README.md
 
 https://github.com/curso-node-udemy/clima-mundo
