@@ -25,3 +25,14 @@ https://github.com/curso-node-udemy/bases-node-multiplicar
 - Git y Github para realizar backups del código (tags y releases)
 
 https://github.com/curso-node-udemy/toDo
+
+# Aplicación del Clima - GeoLocation + Open Weather
+
+- Consumo de APIs
+- Llamadas HTTP hacia servidores externos
+- Paquete request
+- Paquete Axios
+- Uso servicios para obtener la dirección por nombre.
+- Uso de OpenWeather para obtener el clima
+
+https://github.com/curso-node-udemy/clima-mundo
